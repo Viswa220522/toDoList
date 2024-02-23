@@ -1,0 +1,49 @@
+.container {
+    background-color: black;
+    text-align: center;
+    padding-bottom: 10px;
+}
+h1{
+    color: whitesmoke;
+}
+#textToDo {
+    border: 0px ;
+    margin-bottom: 5px;
+    font-size: large;
+    border-radius: 7px;
+    padding-left: 10px;
+}
+#buttonToAdd{
+    background-color: aquamarine;
+    
+    font-size: medium;
+    border: 0px;
+    border-radius: 5px;
+    padding: 2px;
+    cursor: pointer;
+}
+#listPara {
+    background-color: white;
+    text-align: center;
+    font-size: large;
+    width: 50%;
+    margin: 0px auto;
+    border-bottom: 1px solid black;
+    border-radius: 5px;
+    padding: 3px;
+}
+#listDel{
+    color: white;
+    background-color: red;
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 1px;
+    float: right;
+    cursor: pointer;
+}
+#listCheckBox{
+    height: 15px;
+    width: 15px;
+    float: left;
+    cursor: pointer;
+}
